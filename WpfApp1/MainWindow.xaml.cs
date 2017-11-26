@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Reflection;
+using System.Diagnostics;
 
 namespace WpfApp1
 {
@@ -25,8 +26,24 @@ namespace WpfApp1
         {
             InitializeComponent();
 
+            AssemblyInformationalVersionAttribute attribute =
+               (AssemblyInformationalVersionAttribute)Assembly.GetExecutingAssembly()
+               .GetCustomAttributes(typeof(AssemblyInformationalVersionAttribute), false).FirstOrDefault();
+
             string assemblyVersion = Assembly.GetExecutingAssembly().GetName().Version.ToString();
-            Console.WriteLine("assembly version" + assemblyVersion);
+            string fileVersion = FileVersionInfo.GetVersionInfo(Assembly.GetExecutingAssembly().Location).FileVersion;
+
+
+            if (attribute != null)
+            {
+                Console.WriteLine("Version " + attribute.InformationalVersion);
+                Console.WriteLine("Assembly version" + assemblyVersion);
+                Console.WriteLine("File version" + fileVersion);
+            } 
+            else
+            {
+                Console.WriteLine("Unknown Version");
+            }
         }
     }
 }
