@@ -12,4 +12,3 @@ C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.cs
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
-C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
