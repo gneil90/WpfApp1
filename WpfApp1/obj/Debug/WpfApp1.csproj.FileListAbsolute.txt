@@ -1,7 +1,6 @@
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
-C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\App.g.cs
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
@@ -13,3 +12,4 @@ C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.cs
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\nailg\OneDrive\Documents\WPF Hello\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
